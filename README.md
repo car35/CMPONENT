@@ -1,0 +1,2 @@
+# CMPONENT
+taller de Estructura 
